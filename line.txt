@@ -1,0 +1,1 @@
+Your backup finished successfully. It backed up nothing — the folder it watched was empty, and it never thought to ask.
